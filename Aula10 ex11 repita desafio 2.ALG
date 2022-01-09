@@ -1,7 +1,7 @@
 algoritmo "EscolhendoPessoas"
 var
       idade,cabelo,TotalM18,TotalF25: Inteiro
-      R,F,N,M,S,SX: Caractere
+      R,N,SX: Caractere
 
 inicio
       TotalM18 <- 0
